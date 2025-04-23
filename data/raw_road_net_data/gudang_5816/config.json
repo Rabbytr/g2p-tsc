@@ -1,0 +1,12 @@
+{
+	"interval": 1.0,
+	"seed": 0,
+	"dir": "data_set/gudang_5816/",
+	"roadnetFile": "roadnet_4X4.json",
+	"flowFile": "anon_4_4_hangzhou_real_5816.json",
+	"rlTrafficLight": true,
+	"laneChange": true,
+	"saveReplay": false,
+	"roadnetLogFile": "replay_roadnet.json",
+	"replayLogFile": "replay.txt"
+}
